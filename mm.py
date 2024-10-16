@@ -14,3 +14,6 @@ print("c = {c} and d = {d}".format(c=1, d=2))
 jobs = {'John': 'Doctor', 'Jane': 'Engineer', 'Jim': 'Teacher'}
 for name, job in jobs.items():
     print(f"{name} is a {job}")
+
+password = 'amongus'
+print(password)
